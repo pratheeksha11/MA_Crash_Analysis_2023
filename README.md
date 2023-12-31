@@ -1,5 +1,6 @@
 # Massachusetts Motor Vehicle Crash Analysis 2023
 ## By [Pratheeksha Nath](https://public.tableau.com/app/profile/pratheeksha.nath.narikkadan/vizzes) 
+![ViewCount](https://views.whatilearened.today/views/github/pratheeksha11/MA_Crash_Analysis_2023.svg?cache=remove)
 
 ## Overview
 
